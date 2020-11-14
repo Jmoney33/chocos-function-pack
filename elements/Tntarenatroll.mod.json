@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "gamerule sendcommandfeedback false\nsummon tnt ~8 ~10 ~\nsummon tnt ~ ~10 ~8\nsummon tnt ~-8 ~10 ~\nsummon tnt ~ ~10 ~-8\nsummon tnt ~8 ~20 ~8\nsummon tnt ~8 ~20 ~-8\nsummon tnt ~-8 ~20 ~8\nsummon tnt ~-8 ~20 ~-8",
+    "name": "tntarenatroll",
+    "namespace": "mod"
+  }
+}

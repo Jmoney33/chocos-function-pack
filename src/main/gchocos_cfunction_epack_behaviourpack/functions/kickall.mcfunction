@@ -1,0 +1,1 @@
+/kick @a [name=!Teamchoco5322] §4Sub To TEAM CHOCO GAMING OR UR MOM GAE

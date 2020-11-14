@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "§gChoco's §cFunction §ePack",
+    "uuid": "1a278c8a-d5fb-3e05-b453-cd91571d6910",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      14,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "f46c6f77-3853-3897-a275-ac9ba056c5c5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "jalin, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

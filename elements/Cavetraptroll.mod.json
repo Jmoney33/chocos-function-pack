@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "gamerule sendcommandfeedback false\nsetblock ~1 ~2 ~ gold_ore\nsetblock ~1 ~3 ~ observer\nsetblock ~1 ~4 ~ tnt",
+    "name": "cavetraptroll",
+    "namespace": "mod"
+  }
+}

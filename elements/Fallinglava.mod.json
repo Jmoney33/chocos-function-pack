@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "execute @p ~ ~ ~ execute @a[rm=2] ~ ~ ~ setblock ~ ~10 ~ flowing_lava",
+    "name": "fallinglava",
+    "namespace": "mod"
+  }
+}

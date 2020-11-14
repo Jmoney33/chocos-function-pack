@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "gamerule sendcommandfeedback false\nsetblock ~1 ~ ~1 trapped_chest\nsetblock ~1 ~-2 ~1 tnt\nsetblock ~1 ~ ~2 torch\nsetblock ~2 ~ ~1 torch\nsetblock ~ ~ ~1 torch\nsetblock ~1 ~ ~ torch\nsay @s §2DONE!",
+    "name": "chesttroll",
+    "namespace": "mod"
+  }
+}

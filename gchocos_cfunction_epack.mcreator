@@ -1,0 +1,117 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Fillair",
+      "type": "function",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fillair"
+    },
+    {
+      "name": "Woodhouse",
+      "type": "function",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodhouse"
+    },
+    {
+      "name": "Tntarenatroll",
+      "type": "function",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tntarenatroll"
+    },
+    {
+      "name": "Screentroll",
+      "type": "function",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "screentroll"
+    },
+    {
+      "name": "Chesttroll",
+      "type": "function",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chesttroll"
+    },
+    {
+      "name": "Cavetraptroll",
+      "type": "function",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cavetraptroll"
+    },
+    {
+      "name": "Cattroll",
+      "type": "function",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cattroll"
+    },
+    {
+      "name": "Fallinglava",
+      "type": "function",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fallinglava"
+    },
+    {
+      "name": "Kickall",
+      "type": "function",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kickall"
+    },
+    {
+      "name": "House",
+      "type": "function",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "house"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "gchocos_cfunction_epack",
+    "modName": "§gChoco\u0027s §cFunction §ePack",
+    "version": "1.0.0",
+    "author": "jalin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.14.x",
+    "modElementsPackage": "net.mcreator.gchocoscfunctionepack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

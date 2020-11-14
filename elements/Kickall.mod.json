@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "/kick @a [name=!Teamchoco5322] §4Sub To TEAM CHOCO GAMING OR UR MOM GAE",
+    "name": "kickall",
+    "namespace": "mod"
+  }
+}

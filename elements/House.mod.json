@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "/fill ~1 ~-1 ~1 ~10 ~5 ~10 planks 0  hollow\n/title @a title LIKE AND SUBSCRIBE\n/title @a actionbar To Team Choco Gaming\n",
+    "name": "house",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,3 @@
+gamerule sendcommandfeedback false
+title @a title §0§k fukfukfulhfmfukfhmhmfjföjlglgukrydykhfmutlt6?glg?lfykfykfhkkfhyjddyjudmhfmncmkökg?ho??o?kçjjgfukdmhdjgdyyjydkdydsttsjxhöxhkxhkchkyxhkxykxkdhkhkbkrulchlhuflhfljöfxhmhfömdykdyhdmfhkfymmfhmgjlfjl
+say @s §2Done

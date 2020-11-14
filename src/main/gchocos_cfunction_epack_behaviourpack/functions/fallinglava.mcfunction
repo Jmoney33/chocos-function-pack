@@ -1,0 +1,1 @@
+execute @p ~ ~ ~ execute @a[rm=2] ~ ~ ~ setblock ~ ~10 ~ flowing_lava
